@@ -93,23 +93,23 @@ public class SimulationLab1Frame extends javax.swing.JFrame {
             case 1:
                 g.setColor(Color.BLACK);
                 g.fillOval(200, 200, 10, 10);
-                g.drawOval(200, 200, 10, 10);
+                g.drawOval(200, 200, 10, 10);//1
                 break;
             case 2:
                 g.setColor(Color.BLACK);
                 g.fillOval(195, 195, 10, 10);
-                g.drawOval(195, 195, 10, 10);
+                g.drawOval(195, 195, 10, 10);//1
                 g.fillOval(205, 205, 10, 10);
-                g.drawOval(205, 205, 10, 10);                
+                g.drawOval(205, 205, 10, 10);//2                
                 break;
             case 3:
                 g.setColor(Color.BLACK);
                 g.fillOval(188, 188, 10, 10);
-                g.drawOval(188, 188, 10, 10);
+                g.drawOval(188, 188, 10, 10);//1
                 g.fillOval(201, 201, 10, 10);
-                g.drawOval(201, 201, 10, 10);
+                g.drawOval(201, 201, 10, 10);//2
                 g.fillOval(215, 215, 10, 10);
-                g.drawOval(215, 215, 10, 10);
+                g.drawOval(215, 215, 10, 10);//3
                 break;
             case 4:
                 g.setColor(Color.BLACK);
@@ -125,15 +125,15 @@ public class SimulationLab1Frame extends javax.swing.JFrame {
             case 5:
                 g.setColor(Color.BLACK);
                 g.fillOval(190, 190, 10, 10);
-                g.drawOval(190, 190, 10, 10);
+                g.drawOval(190, 190, 10, 10);//1
                 g.fillOval(208, 190, 10, 10);
-                g.drawOval(208, 190, 10, 10);
+                g.drawOval(208, 190, 10, 10);//2
                 g.fillOval(190, 210, 10, 10);
-                g.drawOval(190, 210, 10, 10);
+                g.drawOval(190, 210, 10, 10);//3
                 g.fillOval(208, 210, 10, 10);
-                g.drawOval(208, 210, 10, 10);
+                g.drawOval(208, 210, 10, 10);//4
                 g.fillOval(199, 200, 10, 10);
-                g.drawOval(199, 200, 10, 10);
+                g.drawOval(199, 200, 10, 10);//5
                 break;
             case 6: 
               g.setColor(Color.BLACK);
